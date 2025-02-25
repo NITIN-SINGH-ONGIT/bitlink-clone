@@ -38,8 +38,8 @@ A simple URL shortener built with **Next.js, React, Tailwind CSS, and MongoDB (l
 3. **Set up environment variables (********`.env.local`********\*\*\*\*\*\*\*\*\*\*\*\*):**
 
    ```
-   MONGODB_URI=mongodb://localhost:27017/
-   NEXT_PUBLIC_HOST=http://localhost:3000
+   MONGODB_URI=mongodb://localhost:xxxxx/
+   NEXT_PUBLIC_HOST=http://localhost:xxxx
    ```
 
 4. **Run the development server:**
